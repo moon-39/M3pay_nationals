@@ -1,0 +1,8 @@
+{
+  "name": "مونس پرداخت - اپلیکیشن جامع کیف پول دیجیتال",
+  "description": "اپلیکیشن جامع خدمات مالی، کیف پول ریالی و ارزی تتر، انتقال وجه هوشمند، خدمات اتباع و گردشگران خارجی و باشگاه فروشگاه‌ها",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
